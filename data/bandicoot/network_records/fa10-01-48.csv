@@ -1,0 +1,7 @@
+interaction,direction,correspondent_id,datetime,call_duration
+call,out,fa10-01-04,2010-11-26 22:13:06,36.0
+call,out,fa10-01-04,2010-11-24 20:50:43,5.0
+call,out,fa10-01-04,2010-11-21 15:54:01,19.0
+call,out,fa10-01-04,2010-11-19 18:26:31,37.0
+call,in,fa10-01-82,2010-11-11 10:21:03,24.0
+call,out,fa10-01-04,2011-05-06 12:53:00,37.0

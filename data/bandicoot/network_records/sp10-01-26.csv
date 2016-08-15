@@ -1,0 +1,3 @@
+interaction,direction,correspondent_id,datetime,call_duration
+call,in,sp10-01-52,2011-05-08 17:32:02,195.0
+call,in,sp10-01-52,2011-05-08 13:56:30,34.0
